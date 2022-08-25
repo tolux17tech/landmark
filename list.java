@@ -1,4 +1,7 @@
 simon
+akin
+wale
+dami
 peter
 paul
 john
